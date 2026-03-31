@@ -46,8 +46,10 @@ Program dibuat menggunakan:
 ---
 
 ## 4. Hasil
-(Hasil ditampilkan pada file notebook .ipynb)
 
+Berikut hasil pengolahan citra:
+
+![Hasil](hasil.png)
 ---
 
 ## 5. Analisis
