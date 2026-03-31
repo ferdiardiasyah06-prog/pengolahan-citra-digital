@@ -49,7 +49,7 @@ Program dibuat menggunakan:
 
 Berikut hasil pengolahan citra:
 
-![Hasil](hasil.png)
+![Hasil](Screenshot 2026-03-31 173855.png)
 ---
 
 ## 5. Analisis
